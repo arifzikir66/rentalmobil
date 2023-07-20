@@ -1,3 +1,6 @@
 # rentalmobil
 Website rental mobil CV. Merdeka Auto Rental menggunakan bahasa pemograman PHP Native dengan database MySQL.
-Source Code dapat di download pada LINK https://drive.google.com/drive/folders/12Iqk5NaaOR6olG_gAd_dszhJGiHb-kBG?usp=share_link
+
+Donasi untuk pembuatan source code ini cuma Rp. 50.000 saja untuk rokok dan kopi hehehe
+
+Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
