@@ -5,6 +5,25 @@ Donasi untuk pembuatan source code ini (silahkan tanya lewat email ya)
 
 Jika berminat silahkan pesan lewat email : metatechindustry53@gmail.com
 
+Adapun fitur pada website Rental Mobil ini:
+
+---------- FITUR CRUD ----------
+1. Data Pelanggan
+2. Data Pelanggan Perusahaan
+3. Data Mobil
+4. Data Supir
+5. Data Saran/Masukan
+6. Transaksi Rental Perorangan
+7. Transaksi Rental Perusahaan
+8. Pengembalian Rental Perorangan
+9. Pengembalian Rental Perusahaan
+
+---------- FITUR CETAK LAPORAN ----------
+1. Laporan Rental Perorangan
+2. Laporan Rental Perusahaan
+3. Laporan Data Pelanggan Perorangan
+4. Laporan Data Pelanggan Perusahaan
+
 Berikut ini screenshoot website Rental Mobil
 
 ![tampilan rental 1](https://github.com/arifzikir66/rentalmobil/assets/130142801/e8ec0fe1-a852-47d6-ac06-6e88fbc72e43)
